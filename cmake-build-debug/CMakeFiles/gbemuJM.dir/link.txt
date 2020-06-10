@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gbemuJM.dir/main.cpp.o CMakeFiles/gbemuJM.dir/gb.cpp.o  -o gbemuJM  -lSDL2 
